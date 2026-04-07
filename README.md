@@ -9,4 +9,4 @@ for AIML 2003: Introduction to NLP
 ## Contents
 - Week 1 Setup
 - Week 1: Context Engineering Lab
-- (more to come each week)
+- Week 2: Combined Challenge: How Machines Read
