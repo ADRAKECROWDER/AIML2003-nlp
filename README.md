@@ -10,3 +10,4 @@ for AIML 2003: Introduction to NLP
 - Week 1 Setup
 - Week 1: Context Engineering Lab
 - Week 2: Combined Challenge: How Machines Read
+- Week 3: Combined Challenge: Text and Image Embeddings
